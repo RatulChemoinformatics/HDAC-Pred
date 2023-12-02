@@ -278,4 +278,4 @@ with tab6:
 with tab7:
   st.markdown('Anjum A, Farooqi H, Abdin MZ, Tiwari AK. Combinatorial effect of Macrotyloma uniflorum (Lam.) Verdc. seed extract and vorinostat (suberoylanilide hydroxamic acid) in human leukemia cells, ***Pharmacognosy Magazine*** (2022). DOI: https://dx.doi.org/10.4103/pm.pm_70_21.')
 with tab8:
-  st.markdown('Ratul Bhowmik, Amber Rizwan, Dr. Humaira Farooqi. [***Phytomedicine and Cancer Biology Lab, Department of Biotechnology, Jamia Hamdard, New Delhi, India***] ')
+  st.markdown('Ratul Bhowmik, Amber Rizwan, Dr. Humaira Farooqi. [***Phytomedicine and Cancer Biology Laboratory, Lab no. 219, Department of Biotechnology, Jamia Hamdard, New Delhi, India***] ')
